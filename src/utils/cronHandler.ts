@@ -12,5 +12,5 @@ cron.schedule("1 * * * *", function () {
 
 cron.schedule("0 0 25 * *", function () {
     console.log("---------------------");
-    console.log('Running a task every twenty-Fifth day of the month.');
+    console.log('Running a task every 50 day of the month.');
 });
