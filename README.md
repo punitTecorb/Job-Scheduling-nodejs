@@ -1,10 +1,10 @@
 ## Job Scheduling 
 
-## Introduction -:
+## Introduction :-
     Job Scheduling using nodejs with TypeScript. Job Scheduling by using node-cron library.we are providing some demo
     method for scheduling job according to specific time. you can get demo code inside src/utils folder.
 
-## Job Scheduling elements -:
+## Job Scheduling elements :-
     The cron expression is made up of 6 elements(* * * * * *), separated by a space.
     Here’s a quick reference to the cron expression, Indicating what each element represents.
       . First element for second (0 - 59) (optional)
